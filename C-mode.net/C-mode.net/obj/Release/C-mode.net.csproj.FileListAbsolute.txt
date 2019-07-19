@@ -1,0 +1,5 @@
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\bin\Release\C-mode.net.dll
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\bin\Release\C-mode.net.pdb
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Release\C-mode.net.csproj.CoreCompileInputs.cache
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Release\C-mode.net.dll
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Release\C-mode.net.pdb

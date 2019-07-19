@@ -1,0 +1,6 @@
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\bin\Debug\C-mode.net.dll
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\bin\Debug\C-mode.net.pdb
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Debug\C-mode.net.csprojAssemblyReference.cache
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Debug\C-mode.net.csproj.CoreCompileInputs.cache
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Debug\C-mode.net.dll
+D:\AlexMacocian\Projects\C-mode.net\C-mode.net\obj\Debug\C-mode.net.pdb
