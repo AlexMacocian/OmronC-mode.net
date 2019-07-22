@@ -79,6 +79,22 @@ namespace C_mode.net
         /// wait for a response from the PLC.
         /// </summary>
         public int Timeout { get => timeout; set => timeout = value; }
+        /// <summary>
+        /// Number of data bits for serial connection.
+        /// </summary>
+        public int DataBits { get; set; }
+        /// <summary>
+        /// Baud rate of serial connection.
+        /// </summary>
+        public int BaudRate { get; set; }
+        /// <summary>
+        /// Parity for serial connection.
+        /// </summary>
+        public Parity Parity { get; set; }
+        /// <summary>
+        /// Number of stop bits for serial connection.
+        /// </summary>
+        public StopBits StopBits { get; set; }
         #endregion
         #region Constructors 
         /// <summary>
